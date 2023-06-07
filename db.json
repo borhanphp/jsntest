@@ -1,9 +1,1685 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
+  "users": [
+    {
+      "name": "Sakhawat HOssain",
+      "short_name": "SOHEL",
+      "email": "h@gmail.com",
+      "phone": "456456546",
+      "address": "ghjghjghj",
+      "country": "Albania",
+      "state": "Colorado",
+      "city": "Camden",
+      "zip": "1414",
+      "image": "",
+      "id": 24
+    },
+    {
+      "name": "Rahmat Ullah",
+      "short_name": "Cruise",
+      "email": "h@gmail.com",
+      "phone": "456456546",
+      "address": "ghjghjghj",
+      "country": "Albania",
+      "state": "Colorado",
+      "city": "Camden",
+      "zip": "1414",
+      "image": "",
+      "id": 25
+    },
+    {
+      "name": "Jamir",
+      "short_name": "Cruise",
+      "email": "h@gmail.com",
+      "phone": "456456546",
+      "address": "ghjghjghj",
+      "country": "Albania",
+      "state": "Colorado",
+      "city": "Camden",
+      "zip": "1414",
+      "image": "",
+      "id": 26
+    },
+    {
+      "name": "Raihan Uddin",
+      "short_name": "Cruise",
+      "email": "h@gmail.com",
+      "phone": "456456546",
+      "address": "ghjghjghj",
+      "country": "Albania",
+      "state": "Colorado",
+      "city": "Camden",
+      "zip": "1414",
+      "image": "",
+      "id": 27
+    },
+    {
+      "name": "Arfat Uddin",
+      "short_name": "Cruise",
+      "email": "h@gmail.com",
+      "phone": "456456546",
+      "address": "ghjghjghj",
+      "country": "Albania",
+      "state": "Colorado",
+      "city": "Camden",
+      "zip": "1414",
+      "image": "",
+      "id": 28
+    },
+    {
+      "name": "Emon Hossain",
+      "short_name": "Cruise",
+      "email": "h@gmail.com",
+      "phone": "456456546",
+      "address": "ghjghjghj",
+      "country": "Albania",
+      "state": "Colorado",
+      "city": "Camden",
+      "zip": "1414",
+      "image": "",
+      "id": 29
+    },
+    {
+      "name": "Jhon Wick",
+      "short_name": "Cruise",
+      "email": "h@gmail.com",
+      "phone": "456456546",
+      "address": "ghjghjghj",
+      "country": "Albania",
+      "state": "Colorado",
+      "city": "Camden",
+      "zip": "1414",
+      "image": "",
+      "id": 30
+    },
+    {
+      "name": "Sharukh Khan",
+      "short_name": "Cruise",
+      "email": "h@gmail.com",
+      "phone": "456456546",
+      "address": "ghjghjghj",
+      "country": "Albania",
+      "state": "Colorado",
+      "city": "Camden",
+      "zip": "1414",
+      "image": "",
+      "id": 31
+    },
+    {
+      "name": "Farhad Hossain",
+      "short_name": "Cruise",
+      "email": "h@gmail.com",
+      "phone": "456456546",
+      "address": "ghjghjghj",
+      "country": "Albania",
+      "state": "Colorado",
+      "city": "Camden",
+      "zip": "1414",
+      "image": "",
+      "id": 32
+    },
+    {
+      "name": "Arman",
+      "short_name": "Cruise",
+      "email": "h@gmail.com",
+      "phone": "456456546",
+      "address": "ghjghjghj",
+      "country": "Albania",
+      "state": "Colorado",
+      "city": "Camden",
+      "zip": "1414",
+      "image": "",
+      "id": 33
+    },
+    {
+      "name": "Karim Benjema",
+      "short_name": "Cruise",
+      "email": "h@gmail.com",
+      "phone": "456456546",
+      "address": "ghjghjghj",
+      "country": "Albania",
+      "state": "Colorado",
+      "city": "Camden",
+      "zip": "1414",
+      "image": "",
+      "id": 34
+    },
+    {
+      "name": "fgffgfgfg",
+      "short_name": "Cruise",
+      "email": "h@gmail.com",
+      "phone": "456456546",
+      "address": "ghjghjghj",
+      "country": "Albania",
+      "state": "Colorado",
+      "city": "Camden",
+      "zip": "1414",
+      "image": "",
+      "id": 35
+    },
+    {
+      "name": "fgffgfgfg",
+      "short_name": "Cruise",
+      "email": "h@gmail.com",
+      "phone": "456456546",
+      "address": "ghjghjghj",
+      "country": "Albania",
+      "state": "Colorado",
+      "city": "Camden",
+      "zip": "1414",
+      "image": "",
+      "id": 36
+    },
+    {
+      "name": "fgffgfgfg",
+      "short_name": "Cruise",
+      "email": "h@gmail.com",
+      "phone": "456456546",
+      "address": "ghjghjghj",
+      "country": "Albania",
+      "state": "Colorado",
+      "city": "Camden",
+      "zip": "1414",
+      "image": "",
+      "id": 37
+    },
+    {
+      "name": "fgffgfgfg",
+      "short_name": "Cruise",
+      "email": "h@gmail.com",
+      "phone": "456456546",
+      "address": "ghjghjghj",
+      "country": "Albania",
+      "state": "Colorado",
+      "city": "Camden",
+      "zip": "1414",
+      "image": "",
+      "id": 38
+    },
+    {
+      "name": "fgffgfgfg",
+      "short_name": "Cruise",
+      "email": "h@gmail.com",
+      "phone": "456456546",
+      "address": "ghjghjghj",
+      "country": "Albania",
+      "state": "Colorado",
+      "city": "Camden",
+      "zip": "1414",
+      "image": "",
+      "id": 39
+    },
+    {
+      "name": "fgffgfgfg",
+      "short_name": "Cruise",
+      "email": "h@gmail.com",
+      "phone": "456456546",
+      "address": "ghjghjghj",
+      "country": "Albania",
+      "state": "Colorado",
+      "city": "Camden",
+      "zip": "1414",
+      "image": "",
+      "id": 40
+    },
+    {
+      "name": "fgffgfgfg",
+      "short_name": "Cruise",
+      "email": "h@gmail.com",
+      "phone": "456456546",
+      "address": "ghjghjghj",
+      "country": "Albania",
+      "state": "Colorado",
+      "city": "Camden",
+      "zip": "1414",
+      "image": "",
+      "id": 41
+    },
+    {
+      "name": "fgffgfgfg",
+      "short_name": "Cruise",
+      "email": "h@gmail.com",
+      "phone": "456456546",
+      "address": "ghjghjghj",
+      "country": "Albania",
+      "state": "Colorado",
+      "city": "Camden",
+      "zip": "1414",
+      "image": "",
+      "id": 42
+    },
+    {
+      "name": "fgffgfgfg",
+      "short_name": "Cruise",
+      "email": "h@gmail.com",
+      "phone": "456456546",
+      "address": "ghjghjghj",
+      "country": "Albania",
+      "state": "Colorado",
+      "city": "Camden",
+      "zip": "1414",
+      "image": "",
+      "id": 43
+    },
+    {
+      "name": "fgffgfgfg",
+      "short_name": "Cruise",
+      "email": "h@gmail.com",
+      "phone": "456456546",
+      "address": "ghjghjghj",
+      "country": "Albania",
+      "state": "Colorado",
+      "city": "Camden",
+      "zip": "1414",
+      "image": "",
+      "id": 44
+    },
+    {
+      "name": "fgffgfgfg",
+      "short_name": "Cruise",
+      "email": "h@gmail.com",
+      "phone": "456456546",
+      "address": "ghjghjghj",
+      "country": "Albania",
+      "state": "Colorado",
+      "city": "Camden",
+      "zip": "1414",
+      "image": "",
+      "id": 45
+    },
+    {
+      "name": "fgffgfgfg",
+      "short_name": "Cruise",
+      "email": "h@gmail.com",
+      "phone": "456456546",
+      "address": "ghjghjghj",
+      "country": "Albania",
+      "state": "Colorado",
+      "city": "Camden",
+      "zip": "1414",
+      "image": "",
+      "id": 46
+    },
+    {
+      "name": "fgffgfgfg",
+      "short_name": "Cruise",
+      "email": "h@gmail.com",
+      "phone": "456456546",
+      "address": "ghjghjghj",
+      "country": "Albania",
+      "state": "Colorado",
+      "city": "Camden",
+      "zip": "1414",
+      "image": "",
+      "id": 47
+    },
+    {
+      "name": "fgffgfgfg",
+      "short_name": "Cruise",
+      "email": "h@gmail.com",
+      "phone": "456456546",
+      "address": "ghjghjghj",
+      "country": "Albania",
+      "state": "Colorado",
+      "city": "Camden",
+      "zip": "1414",
+      "image": "",
+      "id": 48
+    },
+    {
+      "name": "fgffgfgfg",
+      "short_name": "Cruise",
+      "email": "h@gmail.com",
+      "phone": "456456546",
+      "address": "ghjghjghj",
+      "country": "Albania",
+      "state": "Colorado",
+      "city": "Camden",
+      "zip": "1414",
+      "image": "",
+      "id": 49
+    },
+    {
+      "name": "fgffgfgfg",
+      "short_name": "Cruise",
+      "email": "h@gmail.com",
+      "phone": "456456546",
+      "address": "ghjghjghj",
+      "country": "Albania",
+      "state": "Colorado",
+      "city": "Camden",
+      "zip": "1414",
+      "image": "",
+      "id": 50
+    },
+    {
+      "name": "fgffgfgfg",
+      "short_name": "Cruise",
+      "email": "h@gmail.com",
+      "phone": "456456546",
+      "address": "ghjghjghj",
+      "country": "Albania",
+      "state": "Colorado",
+      "city": "Camden",
+      "zip": "1414",
+      "image": "",
+      "id": 51
+    },
+    {
+      "name": "fgffgfgfg",
+      "short_name": "Cruise",
+      "email": "h@gmail.com",
+      "phone": "456456546",
+      "address": "ghjghjghj",
+      "country": "Albania",
+      "state": "Colorado",
+      "city": "Camden",
+      "zip": "1414",
+      "image": "",
+      "id": 52
+    },
+    {
+      "name": "fgffgfgfg",
+      "short_name": "Cruise",
+      "email": "h@gmail.com",
+      "phone": "456456546",
+      "address": "ghjghjghj",
+      "country": "Albania",
+      "state": "Colorado",
+      "city": "Camden",
+      "zip": "1414",
+      "image": "",
+      "id": 53
+    },
+    {
+      "name": "fgffgfgfg",
+      "short_name": "Cruise",
+      "email": "h@gmail.com",
+      "phone": "456456546",
+      "address": "ghjghjghj",
+      "country": "Albania",
+      "state": "Colorado",
+      "city": "Camden",
+      "zip": "1414",
+      "image": "",
+      "id": 54
+    },
+    {
+      "name": "fgffgfgfg",
+      "short_name": "Cruise",
+      "email": "h@gmail.com",
+      "phone": "456456546",
+      "address": "ghjghjghj",
+      "country": "Albania",
+      "state": "Colorado",
+      "city": "Camden",
+      "zip": "1414",
+      "image": "",
+      "id": 55
+    },
+    {
+      "name": "fgffgfgfg",
+      "short_name": "Cruise",
+      "email": "h@gmail.com",
+      "phone": "456456546",
+      "address": "ghjghjghj",
+      "country": "Albania",
+      "state": "Colorado",
+      "city": "Camden",
+      "zip": "1414",
+      "image": "",
+      "id": 56
+    },
+    {
+      "name": "fgffgfgfg",
+      "short_name": "Cruise",
+      "email": "h@gmail.com",
+      "phone": "456456546",
+      "address": "ghjghjghj",
+      "country": "Albania",
+      "state": "Colorado",
+      "city": "Camden",
+      "zip": "1414",
+      "image": "",
+      "id": 57
+    },
+    {
+      "name": "fgffgfgfg",
+      "short_name": "Cruise",
+      "email": "h@gmail.com",
+      "phone": "456456546",
+      "address": "ghjghjghj",
+      "country": "Albania",
+      "state": "Colorado",
+      "city": "Camden",
+      "zip": "1414",
+      "image": "",
+      "id": 58
+    },
+    {
+      "name": "fgffgfgfg",
+      "short_name": "Cruise",
+      "email": "h@gmail.com",
+      "phone": "456456546",
+      "address": "ghjghjghj",
+      "country": "Albania",
+      "state": "Colorado",
+      "city": "Camden",
+      "zip": "1414",
+      "image": "",
+      "id": 59
+    },
+    {
+      "name": "fgffgfgfg",
+      "short_name": "Cruise",
+      "email": "h@gmail.com",
+      "phone": "456456546",
+      "address": "ghjghjghj",
+      "country": "Albania",
+      "state": "Colorado",
+      "city": "Camden",
+      "zip": "1414",
+      "image": "",
+      "id": 60
+    },
+    {
+      "name": "my name",
+      "short_name": "Cruise",
+      "email": "h@gmail.com",
+      "phone": "456456546",
+      "address": "ghjghjghj",
+      "country": "Albania",
+      "state": "Colorado",
+      "city": "Camden",
+      "zip": "1414",
+      "image": "",
+      "id": 61
+    },
+    {
+      "name": "tom",
+      "short_name": "Cruise",
+      "email": "h@gmail.com",
+      "phone": "456456546",
+      "address": "ghjghjghj",
+      "country": "Albania",
+      "state": "Colorado",
+      "city": "Camden",
+      "zip": "1414",
+      "image": "",
+      "id": 62
+    },
+    {
+      "name": "robert",
+      "short_name": "Cruise",
+      "email": "h@gmail.com",
+      "phone": "456456546",
+      "address": "ghjghjghj",
+      "country": "Albania",
+      "state": "Colorado",
+      "city": "Camden",
+      "zip": "1414",
+      "image": "",
+      "id": 63
+    },
+    {
+      "name": "cursy",
+      "short_name": "Cruise",
+      "email": "h@gmail.com",
+      "phone": "456456546",
+      "address": "ghjghjghj",
+      "country": "Albania",
+      "state": "Colorado",
+      "city": "Camden",
+      "zip": "1414",
+      "image": "",
+      "id": 64
+    },
+    {
+      "name": "famous",
+      "short_name": "Cruise",
+      "email": "h@gmail.com",
+      "phone": "456456546",
+      "address": "ghjghjghj",
+      "country": "Albania",
+      "state": "Colorado",
+      "city": "Camden",
+      "zip": "1414",
+      "image": "",
+      "id": 65
+    },
+    {
+      "name": "gdfgdfg",
+      "short_name": "fdgdfg",
+      "email": "fdgdfgdf@gmail.com",
+      "phone": "21254787845",
+      "address": "fsdfsf",
+      "country": "",
+      "state": "",
+      "city": "",
+      "zip": "4545",
+      "id": 66
+    },
+    {
+      "name": "dhfgh",
+      "short_name": "Cruise",
+      "email": "h@gmail.com",
+      "phone": "21554545115",
+      "address": "sgdfg",
+      "country": "",
+      "state": "",
+      "city": "",
+      "zip": "5555",
+      "id": 71
+    },
+    {
+      "id": 72,
+      "name": "Top",
+      "short_name": "",
+      "email": "",
+      "phone": "",
+      "address": "",
+      "country": "",
+      "state": "",
+      "city": "",
+      "zip": "",
+      "image": ""
+    },
+    {
+      "id": 73,
+      "name": "Top",
+      "short_name": "",
+      "email": "",
+      "phone": "",
+      "address": "",
+      "country": "",
+      "state": "",
+      "city": "",
+      "zip": "",
+      "image": ""
+    },
+    {
+      "id": 74,
+      "name": "Top",
+      "short_name": "",
+      "email": "",
+      "phone": "",
+      "address": "",
+      "country": "",
+      "state": "",
+      "city": "",
+      "zip": "",
+      "image": ""
+    },
+    {
+      "id": 75,
+      "name": "",
+      "short_name": "",
+      "email": "dsfsdf@gmail.com",
+      "phone": "",
+      "address": "",
+      "country": "",
+      "state": "",
+      "city": "",
+      "zip": "",
+      "image": ""
+    },
+    {
+      "id": 76,
+      "name": "a",
+      "short_name": "",
+      "email": "",
+      "phone": "",
+      "address": "",
+      "country": "",
+      "state": "",
+      "city": "",
+      "zip": "",
+      "image": ""
+    },
+    {
+      "id": 77,
+      "name": "m",
+      "short_name": "",
+      "email": "",
+      "phone": "",
+      "address": "",
+      "country": "",
+      "state": "",
+      "city": "",
+      "zip": "",
+      "image": ""
+    },
+    {
+      "id": 78,
+      "name": "a",
+      "short_name": "",
+      "email": "",
+      "phone": "",
+      "address": "",
+      "country": "",
+      "state": "",
+      "city": "",
+      "zip": "",
+      "image": ""
+    },
+    {
+      "id": 79,
+      "name": "r",
+      "short_name": "",
+      "email": "",
+      "phone": "",
+      "address": "",
+      "country": "",
+      "state": "",
+      "city": "",
+      "zip": "",
+      "image": ""
+    },
+    {
+      "id": 80,
+      "name": "y",
+      "short_name": "",
+      "email": "",
+      "phone": "",
+      "address": "",
+      "country": "",
+      "state": "",
+      "city": "",
+      "zip": "",
+      "image": ""
+    },
+    {
+      "id": 81,
+      "name": "t",
+      "short_name": "",
+      "email": "",
+      "phone": "",
+      "address": "",
+      "country": "",
+      "state": "",
+      "city": "",
+      "zip": "",
+      "image": ""
+    },
+    {
+      "id": 82,
+      "name": "g",
+      "short_name": "",
+      "email": "",
+      "phone": "",
+      "address": "",
+      "country": "",
+      "state": "",
+      "city": "",
+      "zip": "",
+      "image": ""
+    },
+    {
+      "id": 83,
+      "name": "f",
+      "short_name": "",
+      "email": "",
+      "phone": "",
+      "address": "",
+      "country": "",
+      "state": "",
+      "city": "",
+      "zip": "",
+      "image": ""
+    },
+    {
+      "id": 84,
+      "name": "f",
+      "short_name": "",
+      "email": "",
+      "phone": "",
+      "address": "",
+      "country": "",
+      "state": "",
+      "city": "",
+      "zip": "",
+      "image": ""
+    },
+    {
+      "id": 85,
+      "name": "d",
+      "short_name": "",
+      "email": "",
+      "phone": "",
+      "address": "",
+      "country": "",
+      "state": "",
+      "city": "",
+      "zip": "",
+      "image": ""
+    },
+    {
+      "name": "",
+      "short_name": "",
+      "email": "",
+      "phone": "",
+      "address": "",
+      "country": "",
+      "state": "",
+      "city": "",
+      "zip": "",
+      "id": 86
+    },
+    {
+      "name": "adf",
+      "short_name": "",
+      "email": "",
+      "phone": "",
+      "address": "",
+      "country": "",
+      "state": "",
+      "city": "",
+      "zip": "",
+      "id": 87
+    },
+    {
+      "id": 88,
+      "name": "Mahatir",
+      "short_name": "2",
+      "email": "mahatir@gmail.com",
+      "phone": "",
+      "address": "",
+      "country": "",
+      "state": "",
+      "city": "",
+      "zip": "",
+      "image": "",
+      "text": "f",
+      "": "AX"
+    }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
+  "products": [
+    {
+      "id": 8,
+      "title": "samsung",
+      "description": "The best smartphone that apple launch ever.",
+      "price": "145200",
+      "discount": "10000",
+      "category": "electronics",
+      "brand": "apple",
+      "stock": "no",
+      "size": "m",
+      "color": "red",
+      "tags": "",
+      "quantity": "200"
+    },
+    {
+      "id": 9,
+      "title": "samsung",
+      "description": "The best smartphone that apple launch ever.",
+      "price": "145200",
+      "discount": "10000",
+      "category": "electronics",
+      "brand": "apple",
+      "stock": "yes",
+      "size": "m",
+      "color": "red",
+      "tags": "",
+      "quantity": "200"
+    },
+    {
+      "id": 10,
+      "title": "samsung",
+      "description": "The best smartphone that apple launch ever.",
+      "price": "145200",
+      "discount": "10000",
+      "category": "electronics",
+      "brand": "apple",
+      "stock": "yes",
+      "size": "m",
+      "color": "red",
+      "tags": "",
+      "quantity": "200"
+    },
+    {
+      "id": 11,
+      "title": "samsung",
+      "description": "The best smartphone that apple launch ever.",
+      "price": "145200",
+      "discount": "10000",
+      "category": "electronics",
+      "brand": "apple",
+      "stock": "yes",
+      "size": "m",
+      "color": "red",
+      "tags": "",
+      "quantity": "200"
+    },
+    {
+      "id": 12,
+      "title": "samsung",
+      "description": "The best smartphone that apple launch ever.",
+      "price": "145200",
+      "discount": "10000",
+      "category": "electronics",
+      "brand": "apple",
+      "stock": "yes",
+      "size": "m",
+      "color": "red",
+      "tags": "",
+      "quantity": "200"
+    },
+    {
+      "id": 13,
+      "title": "samsung",
+      "description": "The best smartphone that apple launch ever.",
+      "price": "145200",
+      "discount": "10000",
+      "category": "electronics",
+      "brand": "apple",
+      "stock": "yes",
+      "size": "m",
+      "color": "red",
+      "tags": "",
+      "quantity": "200"
+    },
+    {
+      "id": 14,
+      "title": "samsung",
+      "description": "The best smartphone that apple launch ever.",
+      "price": "145200",
+      "discount": "10000",
+      "category": "electronics",
+      "brand": "apple",
+      "stock": "yes",
+      "size": "m",
+      "color": "red",
+      "tags": "",
+      "quantity": "200"
+    },
+    {
+      "id": 15,
+      "title": "samsung",
+      "description": "The best smartphone that apple launch ever.",
+      "price": "145200",
+      "discount": "10000",
+      "category": "electronics",
+      "brand": "apple",
+      "stock": "yes",
+      "size": "m",
+      "color": "red",
+      "tags": "",
+      "quantity": "200"
+    },
+    {
+      "id": 16,
+      "title": "samsung",
+      "description": "The best smartphone that apple launch ever.",
+      "price": "145200",
+      "discount": "10000",
+      "category": "electronics",
+      "brand": "apple",
+      "stock": "yes",
+      "size": "m",
+      "color": "red",
+      "tags": "",
+      "quantity": "200"
+    },
+    {
+      "id": 17,
+      "title": "samsung",
+      "description": "The best smartphone that apple launch ever.",
+      "price": "145200",
+      "discount": "10000",
+      "category": "electronics",
+      "brand": "apple",
+      "stock": "yes",
+      "size": "m",
+      "color": "red",
+      "tags": "",
+      "quantity": "200"
+    },
+    {
+      "id": 18,
+      "title": "samsung",
+      "description": "The best smartphone that apple launch ever.",
+      "price": "145200",
+      "discount": "10000",
+      "category": "electronics",
+      "brand": "apple",
+      "stock": "yes",
+      "size": "m",
+      "color": "red",
+      "tags": "",
+      "quantity": "200"
+    },
+    {
+      "id": 19,
+      "title": "samsung",
+      "description": "The best smartphone that apple launch ever.",
+      "price": "145200",
+      "discount": "10000",
+      "category": "electronics",
+      "brand": "apple",
+      "stock": "yes",
+      "size": "m",
+      "color": "red",
+      "tags": "",
+      "quantity": "200"
+    },
+    {
+      "id": 20,
+      "title": "samsung",
+      "description": "The best smartphone that apple launch ever.",
+      "price": "145200",
+      "discount": "10000",
+      "category": "electronics",
+      "brand": "apple",
+      "stock": "yes",
+      "size": "m",
+      "color": "red",
+      "tags": "",
+      "quantity": "200"
+    },
+    {
+      "id": 21,
+      "title": "samsung",
+      "description": "The best smartphone that apple launch ever.",
+      "price": "145200",
+      "discount": "10000",
+      "category": "electronics",
+      "brand": "apple",
+      "stock": "yes",
+      "size": "m",
+      "color": "red",
+      "tags": "",
+      "quantity": "200"
+    },
+    {
+      "id": 22,
+      "title": "samsung",
+      "description": "The best smartphone that apple launch ever.",
+      "price": "145200",
+      "discount": "10000",
+      "category": "electronics",
+      "brand": "apple",
+      "stock": "yes",
+      "size": "m",
+      "color": "red",
+      "tags": "",
+      "quantity": "200"
+    },
+    {
+      "id": 23,
+      "title": "samsung",
+      "description": "The best smartphone that apple launch ever.",
+      "price": "145200",
+      "discount": "10000",
+      "category": "electronics",
+      "brand": "apple",
+      "stock": "yes",
+      "size": "m",
+      "color": "red",
+      "tags": "",
+      "quantity": "200"
+    },
+    {
+      "id": 24,
+      "title": "samsung",
+      "description": "The best smartphone that apple launch ever.",
+      "price": "145200",
+      "discount": "10000",
+      "category": "electronics",
+      "brand": "apple",
+      "stock": "yes",
+      "size": "m",
+      "color": "red",
+      "tags": "",
+      "quantity": "200"
+    },
+    {
+      "id": 25,
+      "title": "samsung",
+      "description": "The best smartphone that apple launch ever.",
+      "price": "145200",
+      "discount": "10000",
+      "category": "electronics",
+      "brand": "apple",
+      "stock": "yes",
+      "size": "m",
+      "color": "red",
+      "tags": "",
+      "quantity": "200"
+    },
+    {
+      "id": 26,
+      "title": "samsung",
+      "description": "The best smartphone that apple launch ever.",
+      "price": "145200",
+      "discount": "10000",
+      "category": "electronics",
+      "brand": "apple",
+      "stock": "yes",
+      "size": "m",
+      "color": "red",
+      "tags": "",
+      "quantity": "200"
+    },
+    {
+      "id": 29,
+      "title": "JMG Canon",
+      "description": "The best smartphone that apple launch ever.",
+      "price": "145200",
+      "discount": "10000",
+      "category": "electronics",
+      "brand": "apple",
+      "stock": "yes",
+      "size": "m",
+      "color": "blue",
+      "tags": "",
+      "quantity": "200"
+    },
+    {
+      "id": 31,
+      "title": "Titanic Mobile Of",
+      "description": "The best smartphone that apple launch ever.",
+      "price": "145200",
+      "discount": "10000",
+      "category": "electronics",
+      "brand": "apple",
+      "stock": "yes",
+      "size": "m",
+      "color": "blue",
+      "tags": "",
+      "quantity": "200"
+    },
+    {
+      "id": 32,
+      "title": "Motorola 5210",
+      "description": "The best smartphone that apple launch ever.",
+      "price": "145200",
+      "discount": "10000",
+      "category": "electronics",
+      "brand": "apple",
+      "stock": "yes",
+      "size": "m",
+      "color": "red",
+      "tags": "",
+      "quantity": "200"
+    },
+    {
+      "id": 34,
+      "title": "ASUS RISEN PRO",
+      "description": "The best smartphone that apple launch ever.",
+      "price": "145200",
+      "discount": "10000",
+      "category": "electronics",
+      "brand": "apple",
+      "stock": "yes",
+      "size": "m",
+      "color": "red",
+      "tags": "",
+      "quantity": "200"
+    },
+    {
+      "id": 36,
+      "title": "Stock Test",
+      "description": "The best smartphone that apple launch ever.",
+      "price": "145200",
+      "discount": "10000",
+      "category": "electronics",
+      "brand": "apple",
+      "stock": "yes",
+      "size": "m",
+      "color": "red",
+      "tags": "",
+      "quantity": "200"
+    },
+    {
+      "id": 37,
+      "title": "Samsung s25 ultra nav",
+      "description": "The best smartphone that apple launch ever.",
+      "price": "249999",
+      "discount": "10000",
+      "category": "electronics",
+      "brand": "apple",
+      "stock": "yes",
+      "size": "m",
+      "color": "white",
+      "tags": "",
+      "quantity": "200"
+    },
+    {
+      "id": 38,
+      "title": "Titanic phone c25",
+      "description": "They absolutely did not need to change that. Now my employer has to pay me to spend time to play the catchup game with react-router team, as if they are my competitor. Component maintainers should not make life more difficult for the people using their components. Standard engineering courtesy.",
+      "price": "50000",
+      "discount": "200",
+      "category": "electronics",
+      "brand": "apple",
+      "stock": "no",
+      "size": "m",
+      "color": "blue",
+      "tags": "",
+      "quantity": "119"
+    },
+    {
+      "id": 39,
+      "title": "Infinix 10 Lite",
+      "description": "They absolutely did not need to change that. Now my employer has to pay me to spend time to play the catchup game with react-router team, as if they are my competitor. Component maintainers should not make life more difficult for the people using their components. Standard engineering courtesy.",
+      "price": "17000",
+      "discount": "2000",
+      "category": "electronics",
+      "brand": "samsung",
+      "stock": "no",
+      "size": "m",
+      "color": "blue",
+      "tags": "",
+      "quantity": "150"
+    },
+    {
+      "id": 40,
+      "title": "Oppo 21 ultrap max",
+      "description": "fdsfsafsdf ",
+      "price": "15000",
+      "discount": "300",
+      "category": "electronics",
+      "brand": "apple",
+      "stock": "no",
+      "size": "m",
+      "color": "blue",
+      "tags": "",
+      "quantity": "555"
+    },
+    {
+      "id": 41,
+      "title": "Techno Flixin",
+      "description": "We then use conditional logic to check if a field is empty, if it is, you throw the corresponding error. In the code block above, we’re only doing",
+      "price": "555555",
+      "discount": "200",
+      "category": "electronics",
+      "brand": "dell",
+      "stock": "no",
+      "size": "m",
+      "color": "white",
+      "tags": "",
+      "quantity": ""
+    },
+    {
+      "id": 42,
+      "title": "Infinix 30 Hot",
+      "description": "141414141",
+      "price": "14500",
+      "discount": "14141",
+      "category": "electronics",
+      "brand": "dell",
+      "stock": "yes",
+      "size": "m",
+      "color": "blue",
+      "tags": "",
+      "quantity": ""
+    },
+    {
+      "id": 43,
+      "title": "Realme C25 Xtra",
+      "description": "The \"scroll-to-top\" feature is an excellent addition to any website that forces visitors to scroll a long distance before reaching the bottom of the page, since it becomes quite annoying to return back to the top.",
+      "price": "54000",
+      "discount": "1000",
+      "category": "electronics",
+      "brand": "dell",
+      "stock": "no",
+      "size": "m",
+      "color": "blue",
+      "tags": "",
+      "quantity": "10",
+      "qty": 0
+    }
   ],
-  "profile": { "name": "typicode" }
+  "buyers": [
+    {
+      "month": "January",
+      "data": [
+        {
+          "id": 1,
+          "name": "Gelemet International",
+          "date": "",
+          "amount": "30000",
+          "pcs": "100",
+          "brand": "",
+          "month": "se"
+        },
+        {
+          "id": 2,
+          "name": "IFO",
+          "date": "",
+          "amount": "60000",
+          "pcs": "100",
+          "brand": "",
+          "month": "se"
+        }
+      ]
+    },
+    {
+      "month": "February",
+      "data": [
+        {
+          "id": 3,
+          "name": "H&M",
+          "date": "",
+          "amount": "50,000",
+          "pcs": "200",
+          "brand": "",
+          "month": "se"
+        },
+        {
+          "id": 4,
+          "name": "",
+          "date": "",
+          "amount": "20,0000",
+          "pcs": "500",
+          "brand": "",
+          "month": "se"
+        }
+      ]
+    },
+    {
+      "month": "March",
+      "data": [
+        {
+          "id": 5,
+          "name": "abc",
+          "date": "",
+          "amount": "50,000",
+          "pcs": "200",
+          "brand": "",
+          "month": "se"
+        },
+        {
+          "id": 6,
+          "name": "def",
+          "date": "",
+          "amount": "20,0000",
+          "pcs": "500",
+          "brand": "",
+          "month": "se"
+        }
+      ]
+    },
+    {
+      "month": "April",
+      "data": [
+        {
+          "id": 7,
+          "name": "abc",
+          "date": "",
+          "amount": "50,000",
+          "pcs": "200",
+          "brand": "",
+          "month": "se"
+        },
+        {
+          "id": 8,
+          "name": "def",
+          "date": "",
+          "amount": "20,0000",
+          "pcs": "500",
+          "brand": "",
+          "month": "se"
+        }
+      ]
+    },
+    {
+      "month": "May",
+      "data": [
+        {
+          "id": 9,
+          "name": "abc",
+          "date": "",
+          "amount": "50,000",
+          "pcs": "200",
+          "brand": "",
+          "month": "se"
+        },
+        {
+          "id": 10,
+          "name": "def",
+          "date": "",
+          "amount": "20,0000",
+          "pcs": "500",
+          "brand": "",
+          "month": "se"
+        }
+      ]
+    },
+    {
+      "month": "Jun",
+      "data": [
+        {
+          "id": 11,
+          "name": "abc",
+          "date": "",
+          "amount": "60,000",
+          "pcs": "250",
+          "brand": "",
+          "month": "se"
+        },
+        {
+          "id": 12,
+          "name": "def",
+          "date": "",
+          "amount": "10,0000",
+          "pcs": "300",
+          "brand": "",
+          "month": "se"
+        }
+      ]
+    }
+  ],
+  "customer": [
+    {
+      "name": "IFO",
+      "date": "2/3/2019",
+      "style_no": "JS90032 (191812)",
+      "pcs": "2000",
+      "confirmed_qty": "1500",
+      "style_category": "Top Ladies",
+      "product_category": "PROCAT01",
+      "amount": "2,00,000",
+      "po_no": "PO01",
+      "fob": "$5.50",
+      "value": "5,000",
+      "merchant_name": "Musfiat Uddin",
+      "department": "wind river",
+      "buyer": "Json",
+      "season": "FALL-22",
+      "year": "2022"
+    },
+    {
+      "name": "IFO",
+      "date": "2/3/2019",
+      "style_no": "JS90035 (TOP)",
+      "pcs": "2000",
+      "confirmed_qty": "1500",
+      "style_category": "Top Ladies",
+      "product_category": "PROCAT01",
+      "amount": "2,00,000",
+      "po_no": "PO01",
+      "fob": "$5.50",
+      "value": "5,000",
+      "merchant_name": "Musfiat Uddin",
+      "department": "wind river",
+      "buyer": "Json",
+      "season": "FALL-22",
+      "year": "2022"
+    },
+    {
+      "name": "IFO",
+      "date": "2/3/2019",
+      "style_no": "JS90032 (191813)",
+      "pcs": "2000",
+      "confirmed_qty": "1500",
+      "style_category": "Top Ladies",
+      "product_category": "PROCAT01",
+      "amount": "2,00,000",
+      "po_no": "PO01",
+      "fob": "$5.50",
+      "value": "5,000",
+      "merchant_name": "Musfiat Uddin",
+      "department": "wind river",
+      "buyer": "Json",
+      "season": "FALL-22",
+      "year": "2022"
+    }
+  ],
+  "buyer": [
+    {
+      "name": "dhfghfgh",
+      "email": "fhfhdfhf@dgdfgdg",
+      "password": "gsdfgdfgdfg",
+      "id": 1
+    },
+    {
+      "name": "hfghfghfgh",
+      "email": "hfhfghfdghf@dgdgd",
+      "password": "ghfhfghfghfgh",
+      "id": 2
+    },
+    {
+      "name": "Rahmat Ullah",
+      "email": "rahmat@gmail.com",
+      "password": "1234456",
+      "id": 3
+    },
+    {
+      "name": "Karim Benjema",
+      "email": "karim@gmail.com",
+      "password": "458741",
+      "id": 4
+    }
+  ],
+  "document": [
+    {
+      "id": 1,
+      "type": "image/jpeg",
+      "file": {
+        "path": "hannah-morgan-ycVFts5Ma4s-unsplash.jpg"
+      },
+      "name": "hannah-morgan-ycVFts5Ma4s-unsplash.jpg",
+      "uploadDate": "",
+      "documentCategory": "Costing",
+      "documentType": "SC",
+      "documentFor": "SC 2"
+    },
+    {
+      "id": 2,
+      "type": "image/png",
+      "file": {
+        "path": "cropped-logo-easternf-removebg-preview.png"
+      },
+      "name": "cropped-logo-easternf-removebg-preview.png",
+      "uploadDate": "",
+      "documentCategory": "Approvals",
+      "documentType": "SC",
+      "documentFor": "SC 4"
+    },
+    {
+      "id": 4,
+      "type": "image/jpeg",
+      "file": {
+        "path": "hannah-morgan-ycVFts5Ma4s-unsplash.jpg"
+      },
+      "name": "hannah-morgan-ycVFts5Ma4s-unsplash.jpg",
+      "uploadDate": "",
+      "documentCategory": "Approvals",
+      "documentType": "SC",
+      "documentFor": "SC 2"
+    },
+    {
+      "id": 5,
+      "type": "image/jpeg",
+      "file": {
+        "path": "hannah-morgan-ycVFts5Ma4s-unsplash.jpg"
+      },
+      "name": "hannah-morgan-ycVFts5Ma4s-unsplash.jpg",
+      "uploadDate": "",
+      "documentCategory": "Approvals",
+      "documentType": "SC",
+      "documentFor": "SC 2"
+    }
+  ],
+  "costhead": [
+    {
+      "headName": "Delivery Charg",
+      "details": "Delivery Charge Details",
+      "id": 1
+    },
+    {
+      "headName": "Fraight Charg",
+      "details": "Fraight Charge Details",
+      "id": 2
+    },
+    {
+      "headName": "fffffffffffffff",
+      "details": "",
+      "id": 3
+    },
+    {
+      "name": "",
+      "details": "",
+      "headName": "Test one cost head",
+      "id": 4
+    }
+  ],
+  "incoterms": [
+    {
+      "id": 70554075081,
+      "termsName": "Ex Works",
+      "shortName": "EXW",
+      "versionYear": "2020",
+      "costHead": [
+        {
+          "id": 1448503840345,
+          "headName": "Unloading Charge"
+        }
+      ]
+    },
+    {
+      "id": 1341697327946,
+      "termsName": "Free Carrier",
+      "shortName": "FCA",
+      "versionYear": "2020",
+      "costHead": [
+        {
+          "id": 1504464294804,
+          "headName": "Delivered Charge"
+        }
+      ]
+    },
+    {
+      "id": 1630958036710,
+      "termsName": "Carriage Paid To",
+      "shortName": "CPT",
+      "versionYear": "2020",
+      "costHead": [
+        {
+          "id": 1504464294804,
+          "headName": "Unloading Charge"
+        }
+      ]
+    },
+    {
+      "id": 1630958036711,
+      "termsName": "Carriage and Insurance Paid To",
+      "shortName": "CIT",
+      "versionYear": "2020",
+      "costHead": [
+        {
+          "id": 1504464294804,
+          "headName": "Delivered Charge"
+        }
+      ]
+    },
+    {
+      "id": 1630958036712,
+      "termsName": "Delivered at Place",
+      "shortName": "DAP",
+      "versionYear": "2020",
+      "costHead": [
+        {
+          "id": 1504464294804,
+          "headName": "Unloading Charge"
+        }
+      ]
+    },
+    {
+      "id": 1630958036713,
+      "termsName": "Delivered at Place Unloaded",
+      "shortName": "DPU",
+      "versionYear": "2020",
+      "costHead": [
+        {
+          "id": 1504464294804,
+          "headName": "Unloading Charge"
+        }
+      ]
+    },
+    {
+      "id": 1630958036714,
+      "termsName": "Delivered Duty Paid",
+      "shortName": "DDP",
+      "versionYear": "2020",
+      "costHead": [
+        {
+          "id": 1504464294804,
+          "headName": "Unloading Charge"
+        }
+      ]
+    },
+    {
+      "id": 1630958036715,
+      "termsName": "Free Alongside Ship",
+      "shortName": "FAS",
+      "versionYear": "2020",
+      "costHead": [
+        {
+          "id": 1504464294804,
+          "headName": "Delivered Charge"
+        }
+      ]
+    },
+    {
+      "id": 1630958036716,
+      "termsName": "Free On Board",
+      "shortName": "FOB",
+      "versionYear": "2020",
+      "costHead": [
+        {
+          "id": 1504464294804,
+          "headName": "Unloading Charge"
+        },
+        {
+          "id": 42951036514,
+          "headName": "Delivered Charge"
+        }
+      ]
+    },
+    {
+      "id": 784945890247,
+      "termsName": "Cost and Freight",
+      "shortName": "CFR",
+      "versionYear": "2020",
+      "costHead": [
+        {
+          "id": 593056337311,
+          "headName": "Unloading Charge"
+        },
+        {
+          "id": 727622267993,
+          "headName": "Delivered Charge"
+        }
+      ]
+    },
+    {
+      "id": 1184002970931,
+      "termsName": "Cost Insurance and Freight",
+      "shortName": "CIF",
+      "versionYear": "2020",
+      "costHead": [
+        {
+          "id": 764174544233,
+          "headName": "Unloading Charge"
+        },
+        {
+          "id": 1290062842182,
+          "headName": "Delivered Charge"
+        }
+      ]
+    },
+    {
+      "id": 1273261950929,
+      "termsName": "Test One",
+      "shortName": "TO",
+      "versionYear": "2020",
+      "costHead": [
+        {
+          "id": 1672900890063,
+          "headName": "Test one cost head"
+        }
+      ]
+    }
+  ]
 }
